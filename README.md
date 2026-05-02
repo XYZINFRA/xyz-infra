@@ -9,7 +9,7 @@ XYZ INFRA is a digital infrastructure provider specializing in zero-latency sett
 * **Identity Verification:** Whitelisted node operations for high-velocity M2M transactions.
 
 **Status:** Genesis Phase / Node Deployment Active
-**Contact:** [PASTE YOUR STRIPE EMAIL HERE]
+**Contact:** br1uhnz@gmail.com
 
 ---
 *XYZ INFRA is a verified infrastructure partner for Agentic Commerce.*
